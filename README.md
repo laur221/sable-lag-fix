@@ -2,6 +2,8 @@
 
 **Performance fixes for Sable / Create: Aeronautics.** It cuts autosave freezes caused by sub-level (ship) saving and skips idle physics work in dimensions that have no ships.
 
+Download: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sable-lag-fix)
+
 > Unofficial patch. Not affiliated with Sable or Create: Aeronautics. If something breaks with this mod installed, please report it **here** first, not to the Sable team.
 
 ## What it fixes
