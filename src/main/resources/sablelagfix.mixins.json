@@ -1,0 +1,16 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "dev.kridder.sablelagfix.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "SavePhaseTimingMixin",
+        "SubLevelHoldingChunkMapMixin",
+        "SubLevelPhysicsSystemMixin",
+        "SubLevelStorageFileMixin",
+        "SubLevelStorageWriteMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 0
+    }
+}
